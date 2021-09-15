@@ -49,8 +49,19 @@ class CurriculumVitae:
         return skills
 
     def objective(self):
+        '''
+        Looking for projects that challenges me to undertake and expand my knowledge in programming and data analysis, 
+        and contribute to achieving company objectives.
+        '''
         return f"{self.name} wants to work full time"
-        # Looking for projects that challenges me to undertake and expand my knowledge in programming and data analysis, and contribute to achieving company objectives.
+    
+    def projects(self):
+        projects = {
+            "tableau": "https://public.tableau.com/app/profile/santiago.cinotti/viz/DatosInmobiliariosCrdobaArg_0120-0121/Dashboard1"
+        }
+        
+        return projects
+        
 
 if __name__ == "__main__":
     my_cv = CurriculumVitae()
@@ -60,5 +71,6 @@ if __name__ == "__main__":
         my_cv.work_experience(),
         my_cv.skills(),
         my_cv.objective(),
+        my_cv.projects()
         sep=" - ",
     )
