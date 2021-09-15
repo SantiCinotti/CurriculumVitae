@@ -1,9 +1,13 @@
 ---
 # Curriculum Vitae of Santiago Cinotti
 
-Run `__init__.py` to view Santiago Cinotti's curriculum vitae
+
+Run `__init__.py` to view Santiago Cinotti's curriculum vitae.
 
 ---
+
+![image](https://drive.google.com/uc?export=view&id=1Le1jcE9roYtmShAiW1WHIx55YstxcNFi)
+
 
 ### Personal Projects
 
