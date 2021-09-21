@@ -6,7 +6,7 @@ Run `__init__.py` to view Santiago Cinotti's curriculum vitae.
 
 ---
 
-![image](https://drive.google.com/uc?export=view&id=1Le1jcE9roYtmShAiW1WHIx55YstxcNFi)
+![image](https://drive.google.com/drive/u/0/folders/1DXcSMtSGSalwisSpqmwsFpmPV5ESERt1)
 
 
 ### Personal Projects
