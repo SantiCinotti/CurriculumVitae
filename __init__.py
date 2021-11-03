@@ -57,7 +57,7 @@ class CurriculumVitae:
     
     def projects(self):
         projects = {
-            "tableau": "https://public.tableau.com/app/profile/santiago.cinotti/viz/DatosInmobiliariosCrdobaArg_0120-0121/Dashboard1"
+            "tableau": "https://public.tableau.com/app/profile/santiago.cinotti/viz/DatosInmobiliariosCrdobaArg_0120-0121/Dashboard1",
             "EDA - COVID-19 ARGENTINA": "https://github.com/SantiCinotti/covid_19"
         }
         
@@ -72,6 +72,6 @@ if __name__ == "__main__":
         my_cv.work_experience(),
         my_cv.skills(),
         my_cv.objective(),
-        my_cv.projects()
+        my_cv.projects(),
         sep=" - ",
     )
