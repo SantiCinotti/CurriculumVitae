@@ -58,6 +58,7 @@ class CurriculumVitae:
     def projects(self):
         projects = {
             "tableau": "https://public.tableau.com/app/profile/santiago.cinotti/viz/DatosInmobiliariosCrdobaArg_0120-0121/Dashboard1"
+            "EDA - COVID-19 ARGENTINA": "https://github.com/SantiCinotti/covid_19"
         }
         
         return projects
